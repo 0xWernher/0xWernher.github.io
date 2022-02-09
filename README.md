@@ -4,6 +4,16 @@
 
 [@metavillageNFT](https://twitter.com/metavillageNFT) · [metavillage.app](https://metavillage.app)
 
+The past decades have seen incredible strides in virtual reality and the creation of 3D worlds. Quasi-metaversal off-chain games dominate the market, like Fortnite and Roblox, and we have numerous 3D walkables in crypto world. Decentraland is celebrating its year anniversary and new metaverse projects are released on Solana everyday.
+
+Yet, somehow, we are still falling short of a *fulfilling* metaverse. To understand why, let us look at the original sentiment of the word, “metaverse,” which originates from the 90s—well before Virtual Reality was remotely possible. Metaverse: A digitally enabled sphere of social connectivity beyond our physical world. 
+
+The vast majority of our development has been on the digital technology, but we’ve overlooked how that technology relates back to social connectivity. Metaverses like Decentraland have overlooked the thing which makes our world so valuable: human relationships. The people around us in our day to day lives, who build, learn, laugh, and cry alongside us are the people who make our world worth living in. Metavillage’s mission is to look at what fosters meaningful relationships and communities in the real world and find out how we can simulate or improve upon these avenues of connection in the digital world.
+
+There is no robust community infrastructure to support the creation of meaningful relationships and empowered communities. Metavillage is a multipart codified system that optimizes for the strongest community possible and fosters 1:1 meaningful relationships. This includes a way to express, share, and have your friends interact with your digital identities; fractal community structures to support smaller, tight-knit communities within a larger tribe; shared culture to unite a collection of strangers under a common flag and ideology; and an incentive structure based on rarity which increases with time and contributions, such that it is game theory optimal for any given individual to do the right thing for the community.
+
+Metavillage is the first filled out version of a template which generations of crypto and online communities will copy, remix, and adapt as the ecosystem evolves. We are all contributing building blocks to a larger metaverse; the question is which blocks will prove to be *critical* in our path to a metaverse worth living in.
+
 # **Your Villa**
 
 Your Villa acts as a key to the following:
