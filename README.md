@@ -1,4 +1,4 @@
-# Metavillage Whitepaper
+# **Metavillage Whitepaper**
 
 ```The social building blocks for a metaverse worth living in. Only on Solana.```
 
