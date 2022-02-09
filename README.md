@@ -1,3 +1,9 @@
+# Metavillage Whitepaper
+
+```The social building blocks for a metaverse worth living in. Only on Solana.```
+
+[@metavillageNFT](https://twitter.com/metavillageNFT) · [metavillage.app](https://metavillage.app)
+
 # **Your Villa**
 
 Your Villa acts as a key to the following:
